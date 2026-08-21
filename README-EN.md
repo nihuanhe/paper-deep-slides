@@ -98,10 +98,9 @@ S4 Generate slides → copy deck_kit.py, write slides_a/b + build_pptx.py, run
 S5 Render self-check (mandatory) → PowerPoint COM exports PNGs; review page by page
 ```
 
-## Example Outputs
+## Example Output
 
-- Science 2026, "Pigeon macrophage navigation": `Science2026-鸽子-巨噬细胞-导航-final.pptx` (24 slides)
-- Cancer Cell 2026, "Chronic stress → brain-bone marrow crosstalk in glioma": `Yang2026-SAMs-组会精读.pptx` (41 slides)
+- WeChat Official Account **「小云科研」** illustrated article *《应激经脑-骨髓诱导巨噬细胞促胶质瘤生长-1》* (chronic stress → brain-bone marrow crosstalk induces macrophages that promote glioma growth)
 
 ## FAQ
 
