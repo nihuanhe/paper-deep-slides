@@ -19,3 +19,7 @@ Input: paper PDF + deep-reading notes (DOCX/MD with figures) + optional screensh
 Output: fixed-structure 16:9 academic PPTX — Results-subheading dividers, consecutively numbered experiment pages, trend-comparison results (↑↓, red/blue coding), adaptive image maximization, PowerPoint COM render self-check.
 
 See **README-ZH.md** (中文) or **README-EN.md** (English) for full details.
+
+---
+
+**License**: [MIT](LICENSE) © 2026 nihuanhe
